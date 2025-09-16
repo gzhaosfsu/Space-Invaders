@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="space_invaders">
+    <output-path>$PROJECT_DIR$/out/artifacts/space_invaders</output-path>
+    <root id="archive" name="space_invaders.jar" />
+  </artifact>
+</component>
